@@ -1,0 +1,18 @@
+[
+	{
+		"remove": [
+			"minecraft:creeper",
+			"minecraft:husk",
+			"minecraft:stray",
+			"minecraft:spider",
+			"minecraft:witch",
+			"minecraft:zombie",
+			"minecraft:zombie_villager",
+			"galacticraftcore:evolved_creeper",
+			"galacticraftcore:evolved_enderman",
+			"galacticraftcore:evolved_skeleton",
+			"galacticraftcore:evolved_spider",
+			"galacticraftcore:evolved_zombie"
+		]
+	}
+]

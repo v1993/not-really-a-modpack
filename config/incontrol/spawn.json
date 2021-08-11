@@ -1,0 +1,23 @@
+[
+	{
+		"mob": [
+			"minecraft:skeleton"
+		],
+		"dimension": -1,
+		"result": "default"
+	},
+	{
+		"mob": "minecraft:enderman",
+		"dimension": 1,
+		"random": 0.3,
+		"result": "default"
+	},
+	{
+		"mob": ["minecraft:enderman", "minecraft:skeleton"],
+		"result": "deny"
+	},
+	{
+		"mob": "galacticraftcore:evolved_coldblaze",
+		"damagemultiply": 0.3
+	}
+]
