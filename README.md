@@ -28,6 +28,7 @@ Below is a list of mods that I'll probably forget to update sometimes.
 AppleSkin-mc1.12-1.0.14.jar
 AsmodeusCore-1.12.2-0.0.26.jar
 BetterAdvancements-1.12.2-0.1.0.77.jar
+BetterFps-1.4.8.jar
 BiblioCraft[v2.4.5][MC1.12.2].jar
 binnie-mods-1.12.2-2.5.1.203.jar
 BiomesOPlenty-1.12.2-7.0.1.2444-universal.jar

@@ -13,7 +13,7 @@ val IdToDye = [
 	<ore:dyeGray>,
 	<ore:dyeGreen>,
 	<ore:dyeLightGray>,
-	<ore:dyeMagneta>,
+	<ore:dyeMagenta>,
 	<ore:dyeOrange>,
 	<ore:dyePink>,
 	<ore:dyePurple>,

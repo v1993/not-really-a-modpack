@@ -21,3 +21,7 @@
 /*.so
 /*.dll
 /servers.dat
+
+/config/jei/worldSettings.cfg
+/config/buildcraft/detailed.properties
+/config/splash.properties

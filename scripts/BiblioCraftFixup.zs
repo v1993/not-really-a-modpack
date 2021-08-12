@@ -57,7 +57,7 @@ val IdToDye = [
 	<ore:dyeLightBlue>,
 	<ore:dyeBlue>,
 	<ore:dyePurple>,
-	<ore:dyeMagneta>,
+	<ore:dyeMagenta>,
 	<ore:dyePink>,
 	<ore:dyeBrown>
 ] as IOreDictEntry[];
